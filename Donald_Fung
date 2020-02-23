@@ -1,1 +1,17 @@
-Test
+{
+  "basics": {
+    "name": "Donald Fung",
+    "label": "",
+    "picture": "",
+    "email": "donaldfung33@gmail.com",
+    "phone": "(347) 210-1251",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "10013",
+      "city": "New York",
+      "countryCode": "US",
+      "region": "New York"
+      }
+}
